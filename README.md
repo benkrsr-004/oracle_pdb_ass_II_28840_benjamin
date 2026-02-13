@@ -1,8 +1,10 @@
 # oracle_pdb_ass_II_28840_benjamin
 
 ## 
-Student ID: 28840
-Name:Byiringiro Benjamin
+Repository Link: []
+PDB Name Created: [PDB Name]
+Issues Encountered: [Yes/No]
+
 --
 
 ## Overview
@@ -63,7 +65,6 @@ ALTER PLUGGABLE DATABASE be_to_delete_pdb_28840 CLOSE IMMEDIATE;
 Oracle Enterprise Manager Express was configured and accessed through the browser. The dashboard was used to verify the Oracle environment, confirm the created PDB, and display the user account created inside the PDB.
 as show below in the image
 
-![task 3 3](https://github.com/user-attachments/assets/2005748b-8a39-471a-84fc-0818e0911c3e)
 
 
 
