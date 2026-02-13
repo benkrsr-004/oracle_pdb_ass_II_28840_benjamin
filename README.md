@@ -68,10 +68,6 @@ Oracle Enterprise Manager Express was configured and accessed through the browse
 as show below in the image
 
 
-![3](https://github.com/user-attachments/assets/5244bea1-864a-453c-b0bb-1f9f52ee8bb2)
-
-
-
                          Conclusion
 
 This tasks improve understanding of Oracle Multitenant Architecture, PDB lifecycle management, user administration, and Oracle Enterprise Manager monitoring.
