@@ -67,6 +67,8 @@ ALTER PLUGGABLE DATABASE be_to_delete_pdb_28840 CLOSE IMMEDIATE;
 Oracle Enterprise Manager Express was configured and accessed through the browser. The dashboard was used to verify the Oracle environment, confirm the created PDB, and display the user account created inside the PDB.
 as show below in the image
 
+![3](https://github.com/user-attachments/assets/52f92dde-9b3a-4bf0-a1d2-1edaa1e04f13)
+
 
                          Conclusion
 
