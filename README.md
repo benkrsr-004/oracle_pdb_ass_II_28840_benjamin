@@ -1,9 +1,11 @@
 # oracle_pdb_ass_II_28840_benjamin
 
 ## 
-Repository Link: []
-PDB Name Created: [PDB Name]
-Issues Encountered: [Yes/No]
+Repository Link: [https://github.com/benkrsr-004/oracle_pdb_ass_II_28840_benjamin.git]
+
+PDB Name Created: [be_pdb_28840]
+
+Issues Encountered:
 
 --
 
@@ -66,6 +68,7 @@ Oracle Enterprise Manager Express was configured and accessed through the browse
 as show below in the image
 
 
+![3](https://github.com/user-attachments/assets/5244bea1-864a-453c-b0bb-1f9f52ee8bb2)
 
 
 
